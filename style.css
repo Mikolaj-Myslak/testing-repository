@@ -1,6 +1,7 @@
 body{
     background-color: #131313;
-    height: 1000px;
+    height: 95vh;
+    width: 95vw;
     color: whitesmoke;
     display: flex;
     justify-content: center;
